@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "EFTransactions.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63054;http://localhost:63055"
+    }
+  }
+}
